@@ -1,4 +1,5 @@
 # FIN580-Project
-Longterm volatility predictions using S&amp;P 500 and macroeconomic indicators
+The goal of this project is to compare the performances of multiple machine learning models on the longterm volatility predictions using S&amp;P 500 and macroeconomic indicators. 
 
-The jupyter notebook is attached. 
+The code can be found in the jupyter notebook. A detailed pdf report with background and results are also attached. 
+
