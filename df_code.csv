@@ -1,0 +1,142 @@
+Code ,Title,Group,New,
+1,Real Personal Income,1,RPI,Output and Income
+2,Real personal income ex transfer receipts,1,W875RX1,Output and Income
+6,IP Index,1,INDPRO,Output and Income
+7,IP: Final Products and Nonindustrial Supplies,1,IPFPNSS,Output and Income
+8,IP: Final Products (Market Group),1,IPFINAL,Output and Income
+9,IP: Consumer Goods,1,IPCONGD,Output and Income
+10,IP: Durable Consumer Goods,1,IPDCONGD,Output and Income
+11,IP: Nondurable Consumer Goods,1,IPNCONGD,Output and Income
+12,IP: Business Equipment,1,IPBUSEQ,Output and Income
+13,IP: Materials,1,IPMAT,Output and Income
+14,IP: Durable Materials,1,IPDMAT,Output and Income
+15,IP: Nondurable Materials,1,IPNMAT,Output and Income
+16,IP: Manufacturing (SIC),1,IPMANSICS,Output and Income
+17,IP: Residential Utilities,1,IPB51222S,Output and Income
+18,IP: Fuels,1,IPFUELS,Output and Income
+19,ISM Manufacturing:  Production Index,1,NAN,Output and Income
+20,Capacity Utilization:  Manufacturing,1,CUMFNS,Output and Income
+21,Help-Wanted Index for United States,2,HWI,Labor Market
+22,Ratio of Help Wanted/No.  Unemployed,2,HWIURATIO,Labor Market
+23,Civilian Labor Force,2,CLF16OV,Labor Market
+24,Civilian Employment,2,CE16OV,Labor Market
+25,Civilian Unemployment Rate,2,UNRATE,Labor Market
+26,Average Duration of Unemployment (Weeks),2,UEMPMEAN,Labor Market
+27,Civilians Unemployed - Less Than 5 Weeks,2,UEMPLT5,Labor Market
+28,Civilians Unemployed for 5-14 Weeks,2,UEMP5TO14,Labor Market
+29,Civilians Unemployed -15 Weeks & Over,2,UEMP15OV,Labor Market
+30,Civilians Unemployed for 15-26 Weeks,2,UEMP15T26,Labor Market
+31,Civilians Unemployed for 27 Weeks and Over,2,UEMP27OV,Labor Market
+32,Initial Claims,2,CLAIMSx,Labor Market
+33,All Employees:  Total nonfarm,2,PAYEMS,Labor Market
+34,All Employees:  Goods-Producing Industries,2,USGOOD,Labor Market
+35,All Employees:  Mining and Logging:  Mining,2,CES1021000001,Labor Market
+36,All Employees:  Construction,2,USCONS,Labor Market
+37,All Employees:  Manufacturing,2,MANEMP,Labor Market
+38,All Employees:  Durable goods,2,DMANEMP,Labor Market
+39,All Employees:  Nondurable goods,2,NDMANEMP,Labor Market
+40,All Employees:  Service-Providing Industries,2,SRVPRD,Labor Market
+41,"All Employees:  Trade, Transportation & Utilities",2,USTPU,Labor Market
+42,All Employees:  Wholesale Trade,2,USWTRADE,Labor Market
+43,All Employees:  Retail Trade,2,USTRADE,Labor Market
+44,All Employees:  Financial Activities,2,USFIRE,Labor Market
+45,All Employees:  Government,2,USGOVT,Labor Market
+46,Avg Weekly Hours :  Goods-Producing,2,CES0600000007,Labor Market
+47,Avg Weekly Overtime Hours :  Manufacturing,2,AWOTMAN,Labor Market
+48,Avg Weekly Hours :  Manufacturing,2,AWHMAN,Labor Market
+49,ISM Manufacturing:  Employment Index,2,NAN,Labor Market
+127,Avg Hourly Earnings :  Goods-Producing,2,NAN,Labor Market
+128,Avg Hourly Earnings :  Construction,2,NAN,Labor Market
+129,Avg Hourly Earnings :  Manufacturing,2,NAN,Labor Market
+50,Housing Starts:  Total New Privately Owned,3,HOUST,Housing
+51,"Housing Starts, Northeast",3,HOUSTNE,Housing
+52,"Housing Starts, Midwest",3,HOUSTMW,Housing
+53,"Housing Starts, South",3,HOUSTS,Housing
+54,"Housing Starts, West",3,HOUSTW,Housing
+55,New Private Housing Permits (SAAR),3,PERMIT,Housing
+56,"New Private Housing Permits, Northeast (SAAR)",3,PERMITNE,Housing
+57,"New Private Housing Permits, Midwest (SAAR)",3,PERMITMW,Housing
+58,"New Private Housing Permits, South (SAAR)",3,PERMITS,Housing
+59,"New Private Housing Permits, West (SAAR)",3,PERMITW,Housing
+3,Real personal consumption expenditures,4,DPCERA3M086SBEA,Consumption
+4,Real Manu.  and Trade Industries Sales,4,CMRMTSPLx,Consumption
+5,Retail and Food Services Sales,4,RETAILx,Consumption
+60,ISM : PMI Composite Index,4,NAN,Consumption
+61,ISM : New Orders Index,4,NAN,Consumption
+62,ISM : Supplier Deliveries Index,4,NAN,Consumption
+63,ISM : Inventories Index,4,NAN,Consumption
+64,New Orders for Consumer Goods,4,ACOGNO,Consumption
+65,New Orders for Durable Goods,4,NAN,Consumption
+66,New Orders for Nondefense Capital Goods,4,ANDENOx,Consumption
+67,Unfilled Orders for Durable Goods,4,AMDMUOx,Consumption
+68,Total Business Inventories,4,BUSINVx,Consumption
+69,Total Business:  Inventories to Sales Ratio,4,ISRATIOx,Consumption
+130,Consumer Sentiment Index,4,NAN,Consumption
+70,Mfi Money Stock,5,M1SL,Money and Credit
+71,MÂ£ Money Stock,5,M2SL,Money and Credit
+72,Real MÂ£ Money Stock,5,M2REAL,Money and Credit
+73,St.  Louis Adjusted Monetary Base,5,AMBSL,Money and Credit
+74,Total Reserves of Depository Institutions,5,TOTRESNS,Money and Credit
+75,Reserves Of Depository Institutions,5,NONBORRES,Money and Credit
+76,Commercial and Industrial Loans,5,BUSLOANS,Money and Credit
+77,Real Estate Loans at All Commercial Banks,5,REALLN,Money and Credit
+78,Total Nonrevolving Credit,5,NONREVSL,Money and Credit
+79,Nonrevolving consumer credit to Personal Income,5,CONSPI,Money and Credit
+131,MZM Money Stock,5,NAN,Money and Credit
+132,Consumer Motor Vehicle Loans Outstanding,5,NAN,Money and Credit
+133,Total Consumer Loans and Leases Outstanding,5,NAN,Money and Credit
+134,Securities in Bank Credit at All Commercial Banks,5,INVEST,Money and Credit
+84,Effective Federal Funds Rate,6,FEDFUNDS,Interests and Exchange Rates
+85,3-Month AA Financial Commercial Paper Rate,6,CP3Mx,Interests and Exchange Rates
+86,3-Month Treasury Bill:,6,TB3MS,Interests and Exchange Rates
+87,6-Month Treasury Bill:,6,TB6MS,Interests and Exchange Rates
+88,1-Year Treasury Rate,6,GS1,Interests and Exchange Rates
+89,5-Year Treasury Rate,6,GS5,Interests and Exchange Rates
+90,10-Year Treasury Rate,6,GS10,Interests and Exchange Rates
+91,MoodyÃs Seasoned Aaa Corporate Bond Yield,6,AAA,Interests and Exchange Rates
+92,MoodyÃs Seasoned Baa Corporate Bond Yield,6,BAA,Interests and Exchange Rates
+93,3-Month Commercial Paper Minus FEDFUNDS,6,COMPAPFFx,Interests and Exchange Rates
+94,3-Month Treasury C Minus FEDFUNDS,6,TB3SMFFM,Interests and Exchange Rates
+95,6-Month Treasury C Minus FEDFUNDS,6,TB6SMFFM,Interests and Exchange Rates
+96,1-Year Treasury C Minus FEDFUNDS,6,T1YFFM,Interests and Exchange Rates
+97,5-Year Treasury C Minus FEDFUNDS,6,T5YFFM,Interests and Exchange Rates
+98,10-Year Treasury C Minus FEDFUNDS,6,T10YFFM,Interests and Exchange Rates
+99,MoodyÃs Aaa Corporate Bond Minus FEDFUNDS,6,AAAFFM,Interests and Exchange Rates
+100,MoodyÃs Baa Corporate Bond Minus FEDFUNDS,6,BAAFFM,Interests and Exchange Rates
+101,Trade Weighted U.S. Dollar Index:  Major Currencies,6,TWEXMMTH,Interests and Exchange Rates
+102,Switzerland / U.S. Foreign Exchange Rate,6,EXSZUSx,Interests and Exchange Rates
+103,Japan / U.S. Foreign Exchange Rate,6,EXJPUSx,Interests and Exchange Rates
+104,U.S. / U.K. Foreign Exchange Rate,6,EXUSUKx,Interests and Exchange Rates
+105,Canada / U.S. Foreign Exchange Rate,6,EXCAUSx,Interests and Exchange Rates
+106,PPI: Finished Goods,7,NAN,Prices
+107,PPI: Finished Consumer Goods,7,NAN,Prices
+108,PPI: Intermediate Materials,7,NAN,Prices
+109,PPI: Crude Materials,7,NAN,Prices
+110,"Crude Oil, spliced WTI and Cushing",7,NAN,Prices
+111,PPI: Metals and metal products:,7,NAN,Prices
+112,ISM Manufacturing:  Prices Index,7,NAN,Prices
+113,CPI : All Items,7,NAN,Prices
+114,CPI : Apparel,7,NAN,Prices
+115,CPI : Transportation,7,NAN,Prices
+116,CPI : Medical Care,7,CPIMEDSL,Prices
+117,CPI : Commodities,7,CUSR0000SAC,Prices
+118,CPI : Durables,7,CUSR0000SAD,Prices
+119,CPI : Services,7,CUSR0000SAS,Prices
+120,CPI : All Items Less Food,7,CPIULFSL,Prices
+121,CPI : All items less shelter,7,CUSR0000SA0L2,Prices
+122,CPI : All items less medical care,7,CUSR0000SA0L5,Prices
+123,Personal Cons.  Expend.:  Chain Index,7,PCEPI,Prices
+124,Personal Cons.  Exp:  Durable goods,7,DDURRG3M086SBEA,Prices
+125,Personal Cons.  Exp:  Nondurable goods,7,DNDGRG3M086SBEA,Prices
+126,Personal Cons.  Exp:  Services,7,DSERRG3M086SBEA,Prices
+80,S&PÃs Common Stock Price Index:  Composite,8,S&P 500,Stock Market
+81,S&PÃs Common Stock Price Index:  Industrials,8,S&P: indust,Stock Market
+82,S&PÃs Composite Common Stock:  Dividend Yield,8,S&P div yield,Stock Market
+83,S&PÃs Composite Common Stock:  Price-Earnings Ratio,8,S&P PE ratio,Stock Market
+135,VXO,8,VXOCLSx,Stock Market
+136,Lag0,9,SP500_RV_yahoo,Laged Volatilities
+137,lag1,9,lag1,Laged Volatilities
+138,lag2,9,lag2,Laged Volatilities
+139,lag3,9,lag3,Laged Volatilities
+140,lag4,9,lag4,Laged Volatilities
+141,lag5,9,lag5,Laged Volatilities
